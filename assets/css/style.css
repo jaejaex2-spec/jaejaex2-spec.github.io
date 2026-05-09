@@ -74,6 +74,10 @@ article p {
   text-align: center;
 }
 
+article img {
+  width: 25%;
+}
+
 blockquote {
   margin-left: 0;
   padding-left: 1rem;
