@@ -70,6 +70,10 @@ a:visited {
   margin-right: 0.5rem;
 }
 
+article p {
+  text-align: center;
+}
+
 blockquote {
   margin-left: 0;
   padding-left: 1rem;
